@@ -12,7 +12,7 @@ public class QueryProcessor {
         } else if (query.contains("name")) {
            return "Lewis";
         } else { // TODO extend the programm here
-            return "Lewis";
+            return "";
         }
     }
 }
